@@ -1,0 +1,19 @@
+.odd-numbered{
+    background-color:rgb(185, 103, 115);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blueText-36px{
+    color:blue;
+    font-size: 36px;
+}
+
+#font-size-24px{
+    font-size:24px;
+}
+
+#lgbackground-24px-bold{
+    background-color: lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
